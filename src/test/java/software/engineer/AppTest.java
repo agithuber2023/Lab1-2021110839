@@ -1,7 +1,5 @@
 package software.engineer;
-
 //use for the B1 test
-
 import guru.nidi.graphviz.attribute.*;
 import guru.nidi.graphviz.engine.Format;
 import guru.nidi.graphviz.engine.Graphviz;
@@ -29,7 +27,6 @@ import static guru.nidi.graphviz.model.Link.to;
 >>>>>>> C4
 =======
 
->>>>>>> C4
 /**
  * Unit test for simple App.
  */
