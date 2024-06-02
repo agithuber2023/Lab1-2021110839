@@ -1,5 +1,5 @@
 package software.engineer;
-//use for the B1 test
+
 import guru.nidi.graphviz.attribute.*;
 import guru.nidi.graphviz.engine.Format;
 import guru.nidi.graphviz.engine.Graphviz;
@@ -8,7 +8,7 @@ import guru.nidi.graphviz.model.Node;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-//used for c4 test
+
 import java.io.File;
 import java.io.IOException;
 import java.util.*;
@@ -18,26 +18,6 @@ import static guru.nidi.graphviz.model.Factory.graph;
 import static guru.nidi.graphviz.model.Factory.node;
 import static guru.nidi.graphviz.model.Link.to;
 
-<<<<<<< HEAD
-
-//used for test B2
-=======
-<<<<<<< HEAD
-
-
-=======
->>>>>>> B1
-//used for B1 test
-=======
-//used for C4 test
->>>>>>> C4
-=======
-
-<<<<<<< HEAD
->>>>>>> C4
->>>>>>> B1
-=======
->>>>>>> B1
 /**
  * Unit test for simple App.
  */
