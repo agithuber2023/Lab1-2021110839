@@ -23,9 +23,6 @@ import static guru.nidi.graphviz.model.Factory.node;
 import static guru.nidi.graphviz.model.Link.to;
 
 <<<<<<< HEAD
-<<<<<<< HEAD
-
-
 //used for B1 test
 =======
 //used for C4 test
