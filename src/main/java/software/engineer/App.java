@@ -33,10 +33,6 @@ import java.awt.event.InputEvent;
 =======
 <<<<<<< HEAD
 
-
-
-
-
 =======
 //used for the second Git test
 //used for the C4 test

@@ -27,9 +27,10 @@ import static guru.nidi.graphviz.model.Link.to;
 //used for test B2
 =======
 <<<<<<< HEAD
-<<<<<<< HEAD
 
 
+=======
+>>>>>>> B1
 //used for B1 test
 =======
 //used for C4 test
