@@ -28,6 +28,7 @@ import org.jnativehook.keyboard.NativeKeyListener;
 import java.awt.event.InputEvent;
 
 //used for test Git
+//used for test B2
 public class App
 {
     private static Graph graph;
