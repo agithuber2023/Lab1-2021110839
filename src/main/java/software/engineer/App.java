@@ -26,7 +26,7 @@ import org.jnativehook.keyboard.NativeKeyListener;
 
 //import java.awt.*;
 import java.awt.event.InputEvent;
-//used for test B1
+//used for the B1 test
 //used for test Git
 <<<<<<< HEAD
 
